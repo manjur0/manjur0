@@ -10,7 +10,6 @@
 ## 📄 About Me:
   👋 Hello, I'm Manjur, A Front-End Web Developer passionate about turning creative ideas into engaging digital experiences. With a strong foundation in JavaScript, ReactJS, and NextJS, I specialize in building responsive and intuitive user interfaces.
     🚀 My expertise extends to crafting clean and maintainable code, leveraging the power of Tailwind CSS for seamless styling. I bring web applications to life and ensure a smooth user experience through my attention to detail and dedication to best practices.
-    💻 Explore my repositories to see a showcase of my work and the diverse projects I've undertaken. Let's connect and collaborate on creating the next generation of web experiences!
     📫 Reach out to me for discussions on front-end development, JavaScript, or anything web-related. Excited to be part of the ever-evolving world of web development! 
 
 
