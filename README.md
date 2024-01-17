@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Manjur</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
-<img align="right" alt="Coding" width="500px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjur0&label=Profile%20views&color=0e75b6&style=flat" alt="manjur0" /> </p> 
 <br/>
 
