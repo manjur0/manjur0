@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/3TSZ2Rh/manjur-hossain.png) <br/>
+![MasterHead](https://ibb.co.com/yBqFrzt6) <br/>
 
 <h1 align="center">Hi 👋, I'm Manjur</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
